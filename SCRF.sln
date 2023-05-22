@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodSite", "GoodSite\GoodSite.csproj", "{E8513F28-4212-4B9E-9AF7-F589C40786AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSite", "BadSite\BadSite.csproj", "{4CF6116D-A91E-4055-81CA-FD829616EF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryGoodSite", "VeryGoodSite\VeryGoodSite.csproj", "{122D5BF4-63A9-48EF-9B27-95335E646995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8513F28-4212-4B9E-9AF7-F589C40786AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8513F28-4212-4B9E-9AF7-F589C40786AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8513F28-4212-4B9E-9AF7-F589C40786AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8513F28-4212-4B9E-9AF7-F589C40786AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF6116D-A91E-4055-81CA-FD829616EF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF6116D-A91E-4055-81CA-FD829616EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF6116D-A91E-4055-81CA-FD829616EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF6116D-A91E-4055-81CA-FD829616EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122D5BF4-63A9-48EF-9B27-95335E646995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122D5BF4-63A9-48EF-9B27-95335E646995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122D5BF4-63A9-48EF-9B27-95335E646995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122D5BF4-63A9-48EF-9B27-95335E646995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
